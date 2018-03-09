@@ -1,0 +1,27 @@
+﻿<wpf:MetroWindow x:Class="WpfAppOneStyle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppOneStyle"
+        xmlns:wpf="http://www.2u1mei.com"
+        mc:Ignorable="d"
+        Title="摔跤吧！爸爸"  Height="600"
+                 Width="996" Icon="ojoae.ico" TitleBackground="#EA4333" WindowCornerRadius="4"  TitleCornerRadius="4,4,0,0" x:Name="_thisWindow">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TextBlock Text="换肤:" VerticalAlignment="Center"/>
+            <ComboBox x:Name="cbColor" Height="20" Width="60" SelectedIndex="0" SelectionChanged="cbColor_SelectionChanged">
+                <ComboBoxItem>#F68ED9</ComboBoxItem>
+                <ComboBoxItem>#EA4333</ComboBoxItem>
+                <ComboBoxItem>#FB8633</ComboBoxItem>
+                <ComboBoxItem>#80BA45</ComboBoxItem>
+                <ComboBoxItem>#837AE5</ComboBoxItem>
+                <ComboBoxItem>#33BCBA</ComboBoxItem>
+                <ComboBoxItem>#41B1E1</ComboBoxItem>
+                <ComboBoxItem>#83919F</ComboBoxItem>
+                <ComboBoxItem>#3373F2</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</wpf:MetroWindow>

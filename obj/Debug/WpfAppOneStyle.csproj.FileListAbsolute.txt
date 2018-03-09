@@ -1,0 +1,16 @@
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle.csprojResolveAssemblyReference.cache
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\App.g.cs
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle_MarkupCompile.cache
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\MainWindow.g.cs
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle_MarkupCompile.lref
+D:\VisualStudioTest\yLib\WpfAppOneStyle\bin\Debug\WpfAppOneStyle.exe
+D:\VisualStudioTest\yLib\WpfAppOneStyle\bin\Debug\WpfAppOneStyle.pdb
+D:\VisualStudioTest\yLib\WpfAppOneStyle\bin\Debug\EasyCustomControlLibrary.dll
+D:\VisualStudioTest\yLib\WpfAppOneStyle\bin\Debug\EasyCustomControlLibrary.pdb
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\MainWindow.baml
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle.g.resources
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle.Properties.Resources.resources
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle.csproj.GenerateResource.Cache
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle.csproj.CoreCompileInputs.cache
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle.exe
+D:\VisualStudioTest\yLib\WpfAppOneStyle\obj\Debug\WpfAppOneStyle.pdb

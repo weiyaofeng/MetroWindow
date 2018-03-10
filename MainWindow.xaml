@@ -7,7 +7,7 @@
         xmlns:wpf="http://www.2u1mei.com"
         mc:Ignorable="d"
         Title="摔跤吧！爸爸"  Height="600"
-                 Width="996" Icon="ojoae.ico" TitleBackground="#EA4333" WindowCornerRadius="4"  TitleCornerRadius="4,4,0,0" x:Name="_thisWindow">
+                 Width="996" Icon="ojoae.ico" TitleBackground="Pink" WindowCornerRadius="4"  TitleCornerRadius="4,4,0,0" x:Name="_thisWindow">
     <Grid>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
             <TextBlock Text="换肤:" VerticalAlignment="Center"/>

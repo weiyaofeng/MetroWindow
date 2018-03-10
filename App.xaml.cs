@@ -12,5 +12,14 @@ namespace WpfAppOneStyle
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            ShutdownMode = ShutdownMode.OnMainWindowClose;
+            MainWindow m = new MainWindow();
+            DefaultWindow m2 = new DefaultWindow();
+            MainWindow = m2;
+            m.Show();
+            m2.Show();
+        }
     }
 }
